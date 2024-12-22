@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en gifItem debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="berserk"
+      src="https://media4.giphy.com/media/p4w0AMZJa2EtG/giphy.gif?cid=044394073v62c8w1qkleo1chyopor9udaw8fi2t0wpohxdyk&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      berserk
+    </p>
+  </div>
+</div>
+`;
